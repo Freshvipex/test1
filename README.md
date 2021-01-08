@@ -16,3 +16,7 @@
  * pkg install git
  
  * git clone https://github.com/Freshvipex/test1
+ 
+* cd test1
+
+* python2 test1.py
